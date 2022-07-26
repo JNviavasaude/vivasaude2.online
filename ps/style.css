@@ -27,7 +27,7 @@ body {
 }
 
 .black {
-	background-color: black;
+	background-color: #fff;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
@@ -46,15 +46,15 @@ body {
 	font-size: 30px;
 	background-color: #46c900;
 	outline: none;
-	color: black;
+	color: white;
 	text-decoration: none;
 }
 
 .black h1 {
-	color: yellow;
+	color: #111;
 }
 
 .black p {
 	font-size: 18px;
-	color: white;
+	color: #111;
 }
